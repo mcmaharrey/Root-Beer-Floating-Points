@@ -57,6 +57,7 @@ img {
     margin-top: 20px;
 }
 
+
 #development-team, #video-pitch {
     margin-bottom: 40px;
 }
@@ -70,6 +71,17 @@ img {
     height: 150px;
     border-radius: 50%;
     margin-bottom: 10px;
+}
+
+.food-images {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container{
+    max-width: 30%;
+    max-height: 30%;
+    margin: 1%;
 }
 
 #video-pitch a {
